@@ -2,6 +2,8 @@
 
 This project undertakes a comprehensive data analysis to understand the purchasing behavior of Medicarama's students. Additionally, it proposes a sequence of course recommendations based on identified patterns and develops a recommendation model using machine learning.
 
+*It is important to note that the data has been transformed to protect sensitive information, including corporate data. Thus, this work does not showcase real data.*
+
 ## Project Structure
 
 - **data**: Contains the static database in Excel format, as well as processed and transformed files in CSV format.
@@ -25,6 +27,8 @@ This project has been developed using the following tools:
 ### Medicarama
 
 Este proyecto realiza un análisis exhaustivo de datos para estudiar el comportamiento de compra de los alumnos de Medicarama. Además, propone una secuencia de recomendación de cursos basada en los patrones identificados y desarrolla un modelo de recomendación utilizando machine learning.
+
+*Es fundamental destacar que los datos han sido transformados para salvaguardar la confidencialidad de información sensible, incluyendo datos corporativos. Por lo tanto, este trabajo no presenta datos reales.*
 
 ## Estructura del Proyecto
 
